@@ -3,5 +3,6 @@
 #include <studio.h>
 
 void main(){
+	printf("\n");
   printf("HelloWorld!\n");
 }
